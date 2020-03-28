@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jorge Castellanos"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Geophysicist, Visionary"
   location         : "Seismological Laboratory, Caltech"
   email            : mailto:jacastil@caltech.edu
