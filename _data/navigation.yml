@@ -1,8 +1,8 @@
 # main links
 main:
-  -title: "About"
+  - title: "About"
     url: /about/
-  -title: "Waveform modeling"
+  - title: "Waveform modeling"
     url: /waveform-modeling/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
