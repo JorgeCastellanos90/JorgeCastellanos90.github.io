@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Jorge Castellanos"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Geophysicist, Visionary"
+  bio              : "Geophysicist"
   location         : "Seismological Laboratory, Caltech"
-  email            : mailto:jacastil@caltech.edu
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
