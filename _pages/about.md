@@ -15,6 +15,4 @@ I am a PhD candidate in Geophysics at Caltech's Seismological Laboratory in Pasa
 Center aligned text.
 {: .text-center}
 
-![image-left](/images/UNAM_LOGO.png){: .align-left}
-
-![image-left](/images/CALTECH_LOGO.png){: .align-left}
+<img src="/images/UANL_LOGO.png" align="left"> Hola mucho gusto
