@@ -4,5 +4,5 @@ permalink: /waveform-modeling/
 title: "Waveform modeling in complicated media"
 author_profile: true
 header:
-  image: ""
+  image: "/images/ZhongwenGroup.jpg"
 ---
