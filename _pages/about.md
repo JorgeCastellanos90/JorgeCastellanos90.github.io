@@ -18,7 +18,7 @@ M.S. & Ph.D. in Geophysics (2015-Present)
 
 <p>
 <img src="/images/UNAM_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
-Universidad Nacional Autonoma de Mexico
+Universidad Nacional Autonoma de Mexico (2013-2015)
 M.S. in Geophysics
 </p>
 
@@ -26,6 +26,6 @@ M.S. in Geophysics
 
 <p>
 <img src="/images/UANL_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
-Universidad Autonoma de Nuevo Leon
+Universidad Autonoma de Nuevo Leon (2008-2013)
 B.S. in Geophysics
 </p>
