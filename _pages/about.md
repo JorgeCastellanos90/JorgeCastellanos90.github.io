@@ -5,4 +5,4 @@ header:
   image: "/images/ZhongwenGroup.jpg"
 ---
 
-I'm a PhD geophysics candidate who specializes at data processing and visualization.
+I am a PhD geophysics candidate who specializes at data processing and visualization.
