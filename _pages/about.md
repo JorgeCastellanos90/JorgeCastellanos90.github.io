@@ -9,5 +9,7 @@ I am a PhD candidate in Geophysics at Caltech's Seismological Laboratory in Pasa
 
 ## Education
 ![image-left](/images/UANL_LOGO.png){: .align-left}
+
 ![image-left](/images/UNAM_LOGO.png){: .align-left}
+
 ![image-left](/images/CALTECH_LOGO.png){: .align-left}
