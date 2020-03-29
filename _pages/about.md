@@ -9,8 +9,8 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 
 ## Education
 <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20">
-**California Institute of Technology**
-M.S. & Ph.D. in Geophysics
+<p>**California Institute of Technology**</p>
+<p>M.S. & Ph.D. in Geophysics</p>
 <br>
 <img src="/images/UNAM_LOGO.png" class="float-left" width="80" hspace="20">
 **Universidad Nacional Autonoma de Mexico**
