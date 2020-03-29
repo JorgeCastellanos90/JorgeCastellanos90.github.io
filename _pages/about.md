@@ -4,5 +4,5 @@ permalink: /about/
 header:
   image: "/images/Homepage.jpg"
 ---
-
-I am a PhD geophysics candidate who specializes at data processing and visualization.
+## About Me
+I am a PhD candidate in Geophysics at Caltech's Seismological Laboratory in Pasadena, California. My research focuses on using a wide variety of both classical and modern seismological tools to characterize the Earth's multi-scale structure and quantify its wave propagation properties. 
