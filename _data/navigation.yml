@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Waveform modeling"
-    url: /waveform-modeling/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

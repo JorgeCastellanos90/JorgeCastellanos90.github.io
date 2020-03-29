@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /waveform-modeling/
-title: "Waveform modeling in complicated media"
+permalink: /publications/
+title: "Publications"
 author_profile: true
 header:
   image: "/images/ZhongwenGroup.jpg"
