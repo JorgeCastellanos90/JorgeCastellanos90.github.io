@@ -10,9 +10,9 @@ header:
 
 ## Education
 
-    <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
-    <strong>California Institute of Technology</strong>
-    <p>M.S. & Ph.D. in Geophysics (2015-Present)</p>
+<img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
+<strong>California Institute of Technology</strong>
+<p>M.S. & Ph.D. in Geophysics (2015-Present)</p>
 
 <p>
 <img src="/images/UNAM_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
