@@ -27,7 +27,3 @@ B.S. in Geophysics (2008-2013)
 </p>
 
 ## Academic Advisors (Past and Present)
-- image_path: /images/CALTECH_LOGO.png
-    alt: "deep learning network"
-    title: "Image Classifier"
-    text: "In this project, I have first developed code for an image classifier built with PyTorch in Jupyter Notebook, then converted it into a command line application. The application allows you to choose one of the pretrained architectures, specify different hyperparameters (learning rate, hidden layers, epochs) and use either GPU or CPU for training. I also implemented saving the checkpoints so that you can continue training if stopped. Image Classifier predicts 102 flower categories. "
