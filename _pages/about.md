@@ -12,6 +12,7 @@ header:
 <div>
 <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
 <strong>California Institute of Technology</strong>
+<br>
 M.S. & Ph.D. in Geophysics (2015-Present)
 </div>
 
