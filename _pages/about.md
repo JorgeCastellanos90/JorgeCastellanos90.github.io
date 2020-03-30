@@ -10,10 +10,6 @@ header:
 
 ## Education
 
-- image: "/images/CALTECH_LOGO.png"
-  description: "We walk, and not just to get around. We feel lonely, and we still want to be left alone. We know we are all different, but we can't help envying others. We say we don't care, but uncaring remarks sting us for long. We love to work, and yet we need our rest. We are moved by music and visual arts and photographs and words, and not just for their literal or sensory content, but for the symbols within and the emotions they provoke. We are rational, silly, ambitious, lazy, logical, absurd, reasonable, stubborn, grown-up and childish, all at once. We are only human!"
-og_image: "/images/CALTECH_LOGO.png"
-
 <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
 <strong>California Institute of Technology</strong>
 <p>M.S. & Ph.D. in Geophysics (2015-Present)</p>
@@ -29,3 +25,5 @@ M.S. in Geophysics (2013-2015)
 Universidad Autonoma de Nuevo Leon
 B.S. in Geophysics (2008-2013)
 </p>
+
+## Academic Advisors (Past and Present)
