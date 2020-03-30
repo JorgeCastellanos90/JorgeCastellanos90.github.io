@@ -12,15 +12,15 @@ header:
 ## Education
 - **California Institute of Techology**
 <br>
-M.S. & Ph.D. in Geophysics 
+M.S. & Ph.D. in Geophysics (2015-Present){: .text-right}
 
 - **Universidad Nacional Autonoma de Mexico**
 <br>
-B.S. in Geophysics 
+M.S. in Geophysics 
 
 - **Universidad Autonoma de Nuevo Leon**
 <br>
-M.S. & Ph.D. in Geophysics 
+B.S. in Geophysics 
 
 <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
 <strong>California Institute of Technology</strong>
