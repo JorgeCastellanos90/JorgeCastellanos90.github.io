@@ -10,7 +10,7 @@ header:
 ## Education
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
-    <img src="/images/CALTECH_LOGO.png">
+    <img src="/images/CALTECH_LOGO.png" width="80">
 </div>
 <div class="col-12 col-sm-8">
     <h3>California Institute of Technology</h3>
