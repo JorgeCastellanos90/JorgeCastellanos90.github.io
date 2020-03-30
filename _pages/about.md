@@ -10,7 +10,9 @@ header:
 
 ## Education
 - **California Institute of Techology**
+<br>
 M.S. & Ph.D. in Geophysics 
+
 
 <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
 <strong>California Institute of Technology</strong>
