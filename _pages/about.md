@@ -27,3 +27,13 @@ B.S. in Geophysics (2008-2013)
 </p>
 
 ## Academic Advisors (Past and Present)
+---
+layout: post
+title: "Feller's coin-tossing puzzle: tidy simulation in R"
+description: "If you toss n coins, what's the probability there are no streaks of k heads?"
+output: html_document
+date: 2020-01-17 10:00:00 -0400
+category: r
+tags: [r, statistics]
+comments: true
+---
