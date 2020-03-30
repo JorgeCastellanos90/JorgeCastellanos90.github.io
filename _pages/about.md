@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 <div class="container">
     <div class="row">        
         <p>Some text heree</p>
-       <img src="images/CALTECH_LOGO.png"class="img-responsive"/>      
+       <img src="/images/CALTECH_LOGO.png"class="img-responsive"/>      
         <p>Some text here </p>
    </div>
 </div> 
