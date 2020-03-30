@@ -9,9 +9,9 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 
 ## Education
 <div class="clearfix">
-<img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
-<p>California Institute of Technology</p>
-<p>M.S. & Ph.D. in Geophysics (2015-Present)</p>
+    <img src="/images/CALTECH_LOGO.png" class="float-left" width="80" hspace="20" align="middle">
+    <p>California Institute of Technology</p>
+    <p>M.S. & Ph.D. in Geophysics (2015-Present)</p>
 </div>
 
 <p>
