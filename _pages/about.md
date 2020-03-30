@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: tab
 title: "About"
 permalink: /about/
 header:
