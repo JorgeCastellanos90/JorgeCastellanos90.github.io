@@ -9,7 +9,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 
 ## Education
 
-<img src="/images/CALTECH_LOGO.png" style="float: left" width="80" hspace="20" align="middle">
+<img src="/images/CALTECH_LOGO.png" style="float: left; margin-right: 10px; margin-bottom: 20px" width="80">
 <p>
 California Institute of Technology
 M.S. & Ph.D. in Geophysics (2015-Present)
