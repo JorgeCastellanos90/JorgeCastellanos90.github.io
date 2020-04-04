@@ -16,20 +16,20 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 <p><b>Universidad Autonoma de Nuevo Leon</b><br>Monterrey, Nuevo Leon, Mexico<br>B.S in Geophysics<p2 style="float: right">2008-2013</p2></p>
 
 ## Academic Advisors (Past and Present)
-<div id="over" style="position:absolute; width:15%; height:auto" alt="Clayton">
-  <img src="/images/Clayton.png">
-</div>
+- [**Robert W. Clayton**](http://web.gps.caltech.edu/~clay/homepage.html)
+<br>
+Professor of Geophysics, Caltech
+<br>
+Ph.D. Co-Advisor
 
-<p style="margin-left: 120px"><b>Robert W. Clayton</b><br>Professor of Geophysics, Caltech<br>Ph.D. Co-Advisor</p>
+- [**Zhongwen Zhan**](http://zhan.caltech.edu)
+<br>
+Ph.D. Co-Advisor
+<br>
+M.S. & Ph.D. in Geophysics
 
-<div id="over" style="position:absolute; width:15%; height:auto" alt="Zhan">
-  <img src="/images/Zhongwen_Zhan.png">
-</div>
-
-<p style="margin-left: 120px"><b>Zhongwen Zhan</b><br>Assistant Professor of Geophysics, Caltech<br>Ph.D. Co-Advisor</p>
-
-<div id="over" style="position:absolute; width:15%; height:auto" alt="Xyoli">
-  <img src="/images/Xyoli.png">
-</div>
-
-<p style="margin-left: 120px"><b>Xyoli Perez Campos</b><br>Professor of Geophysics, UNAM, Caltech<br>M.S. Advisor</p>
+- [**Xyoli Perez Campos**](http://zhan.caltech.edu)
+<br>
+Professor of Geophysics, UNAM
+<br>
+M.S. Advisor
