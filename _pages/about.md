@@ -12,9 +12,12 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 <div id="over" style="position:absolute; width:10%; height:10%" alt="Caltech">
   <img src="/images/CALTECH_LOGO.png">
 </div>
+
+<p text-indent: 60px>
 **California Institute of Technology**
 <br>
 M.S. & Ph.D. in Geophysics
+</p>
 
 <div id="over" style="position:absolute; width:10%; height:10%" alt="UNAM">
   <img src="/images/UNAM_LOGO.png">
