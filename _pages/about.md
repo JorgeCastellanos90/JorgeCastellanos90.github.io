@@ -13,8 +13,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
   <img src="/images/CALTECH_LOGO.png">
 </div>
 
-<p style="margin-left: 90px">California Institute of Technology</p>
-<p style="margin-left: 90px">M.S. & Ph.D. in Geophysics</p> 
+<p style="margin-left: 90px">California Institute of Technology<br>M.S. & Ph.D. in Geophysics</p>
 <div id="over" style="position:absolute; width:10%; height:10%" alt="UNAM">
   <img src="/images/UNAM_LOGO.png">
 </div>
