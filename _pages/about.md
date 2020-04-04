@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 <p style="margin-left: 90px"><b>Universidad Autonoma de Nuevo Leon</b><br>B.S in Geophysics<p2 style="float: right">2008-2013</p2></p>
 
 ## Academic Advisors (Past and Present)
-<div id="over" style="position:absolute; width:10%; height:auto" alt="Caltech">
+<div id="over" style="position:absolute; width:15%; height:auto" alt="Caltech">
   <img src="/images/Clayton.png">
 </div>
 
@@ -38,7 +38,7 @@ Professor of Geophysics, Caltech
 <br>
 Ph.D. Co-Advisor
 
-<div id="over" style="position:absolute; width:10%; height:auto" alt="Caltech">
+<div id="over" style="position:absolute; width:15%; height:auto" alt="Caltech">
   <img src="/images/Zhongwen_Zhan.png">
 </div>
 
