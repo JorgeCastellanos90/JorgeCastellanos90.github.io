@@ -32,11 +32,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
   <img src="/images/Clayton.png">
 </div>
 
-[**Robert W. Clayton**](http://www.seismolab.caltech.edu/clayton_r.html)
-<br>
-Professor of Geophysics, Caltech
-<br>
-Ph.D. Co-Advisor
+<p style="margin-left: 100px"><b>[Robert W. Clayton](http://www.seismolab.caltech.edu/clayton_r.html)</b><br>Professor of Geophysics, Caltech<br>Ph.D. Co-Advisor</p>
 
 <div id="over" style="position:absolute; width:15%; height:auto" alt="Zhan">
   <img src="/images/Zhongwen_Zhan.png">
