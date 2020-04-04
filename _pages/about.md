@@ -28,3 +28,14 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 <p style="margin-left: 90px"><b>Universidad Autonoma de Nuevo Leon</b><br>B.S in Geophysics<p2 style="float: right">2008-2013</p2></p>
 
 ## Academic Advisors (Past and Present)
+-- Robert W. Clayton
+<br>
+Ph.D. Coadvisor
+
+-- Zhongwen Zhan
+<br>
+Ph.D. Coadvisor
+
+-- Xyoli Perez Campos
+<br>
+M.S. advisor
