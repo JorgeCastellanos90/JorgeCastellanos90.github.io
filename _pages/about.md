@@ -24,9 +24,9 @@ Ph.D. Co-Advisor
 
 - [**Zhongwen Zhan**](http://zhan.caltech.edu)
 <br>
-Ph.D. Co-Advisor
+Assistant professor of Geophysics, Caltech
 <br>
-M.S. & Ph.D. in Geophysics
+Ph.D. Co-Advisor
 
 - [**Xyoli Perez Campos**](http://zhan.caltech.edu)
 <br>
