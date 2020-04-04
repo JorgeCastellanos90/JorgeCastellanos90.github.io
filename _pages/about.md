@@ -33,6 +33,7 @@ I promise not to junk up your feeds as I rarely post on social media.
 </ul>
 
 ## Education
+<img src="/images/CALTECH_LOGO.png" alt="Caltech" align="middle" width= 100px>
 - **California Institute of Techology**
 <br>
 M.S. & Ph.D. in Geophysics
