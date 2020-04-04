@@ -14,18 +14,17 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 </div>
 
 <p style="margin-left: 90px"><b>California Institute of Technology</b><br>M.S. & Ph.D. in Geophysics</p>
+
 <div id="over" style="position:absolute; width:10%; height:10%" alt="UNAM">
   <img src="/images/UNAM_LOGO.png">
 </div>
-**Universidad Nacional Autonoma de Mexico**
-<br>
-M.S. in Geophysics
+
+<p style="margin-left: 90px"><b>Universidad Nacional Autonoma de Mexico</b><br>M.S. in Geophysics</p>
 
 <div id="over" style="position:absolute; width:10%; height:10%" alt="UANL">
   <img src="/images/UANL_LOGO.png">
 </div>
-**Universidad Autonoma de Nuevo Leon**
-<br>
-B.S in Geophysics
+
+<p style="margin-left: 90px"><b>Universidad Autonoma de Nuevo Leon</b><br>B.S in Geophysics</p>
 
 ## Academic Advisors (Past and Present)
