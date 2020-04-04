@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 <br>
 Pasadena, California, USA
 <br>
-M.S. & Ph.D. in Geophysics <p style="float: right">2015-Present</p>
+<p>M.S. & Ph.D. in Geophysics<p2 style="float: right">2015-Present</p2></p>
 
 - **Universidad Nacional Autonoma de Mexico**
 <br>
