@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 <div id="over" style="position:absolute; width:10%; height:10%" alt="Caltech">
   <img src="/images/CALTECH_LOGO.png">
 </div>
-          **California Institute of Technology**
+**California Institute of Technology**
 <br>
 M.S. & Ph.D. in Geophysics
 
