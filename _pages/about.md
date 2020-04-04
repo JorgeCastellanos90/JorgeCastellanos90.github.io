@@ -13,7 +13,8 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 <br>
 Pasadena, California, USA
 <br>
-M.S. & Ph.D. in Geophysics<p style="float: right">2015-Present</p>
+M.S. & Ph.D. in Geophysics
+<p style="float: right">2015-Present</p>
 
 - **Universidad Nacional Autonoma de Mexico**
 <br>
@@ -26,24 +27,6 @@ M.S. in Geophysics<p style="float: right">2013-2015</p>
 Monterrey, Nuevo Leon, Mexico
 <br>
 B.S in Geophysics<p style="float: right">2008-2013</p>
-
-<div id="over" style="position:absolute; width:15%; height:auto" alt="Caltech">
-  <img src="/images/CALTECH_LOGO.png">
-</div>
-
-<p style="margin-left: 120px"><b>California Institute of Technology</b><br>Pasadena, California, USA<br>M.S. & Ph.D. in Geophysics<p2 style="float: right">2015-Present</p2></p>
-
-<div id="over" style="position:absolute; width:15%; height:auto" alt="UNAM">
-  <img src="/images/UNAM_LOGO.png">
-</div>
-
-<p style="margin-left: 120px"><b>Universidad Nacional Autonoma de Mexico</b><br>Mexico City, Mexico<br>M.S. in Geophysics<p2 style="float: right">2013-2015</p2></p>
-
-<div id="over" style="position:absolute; width:15%; height:auto" alt="UANL">
-  <img src="/images/UANL_LOGO.png">
-</div>
-
-<p style="margin-left: 120px"><b>Universidad Autonoma de Nuevo Leon</b><br>Monterrey, Nuevo Leon, Mexico<br>B.S in Geophysics<p2 style="float: right">2008-2013</p2></p>
 
 ## Academic Advisors (Past and Present)
 <div id="over" style="position:absolute; width:15%; height:auto" alt="Clayton">
