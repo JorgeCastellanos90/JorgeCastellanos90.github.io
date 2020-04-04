@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 <p style="margin-left: 90px"><b>Universidad Autonoma de Nuevo Leon</b><br>B.S in Geophysics<p2 style="float: right">2008-2013</p2></p>
 
 ## Academic Advisors (Past and Present)
-<div id="over" style="position:absolute; width:15%; height:auto" alt="Caltech">
+<div id="over" style="position:absolute; width:15%; height:auto" alt="Clayton">
   <img src="/images/Clayton.png">
 </div>
 
@@ -38,7 +38,7 @@ Professor of Geophysics, Caltech
 <br>
 Ph.D. Co-Advisor
 
-<div id="over" style="position:absolute; width:15%; height:auto" alt="Caltech">
+<div id="over" style="position:absolute; width:15%; height:auto" alt="Zhan">
   <img src="/images/Zhongwen_Zhan.png">
 </div>
 
@@ -47,6 +47,10 @@ Ph.D. Co-Advisor
 Assistant Professor of Geophysics, Caltech
 <br>
 Ph.D. Co-Advisor
+
+<div id="over" style="position:absolute; width:15%; height:auto" alt="Xyoli">
+  <img src="/images/Xyoli.png">
+</div>
 
 [**Xyoli Perez Campos**](http://areas.geofisica.unam.mx/sismologia/index.php/users/view/11)
 <br>
