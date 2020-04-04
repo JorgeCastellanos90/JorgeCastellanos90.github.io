@@ -12,15 +12,15 @@ I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pa
 <div id="over" style="position:absolute; width:10%; height:10%">
   <img src="/images/CALTECH_LOGO.png">
 </div>
-- **California Institute of Technology**
+**California Institute of Technology**
 <br>
 M.S. & Ph.D. in Geophysics
 
-- **Universidad Nacional Autonoma de Mexico**
+**Universidad Nacional Autonoma de Mexico**
 <br>
 M.S. in Geophysics
 
-- **Universidad Autonoma de Nuevo Leon**
+**Universidad Autonoma de Nuevo Leon**
 <br>
 B.S in Geophysics
 
