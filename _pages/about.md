@@ -32,24 +32,18 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
   <img src="/images/Clayton.png">
 </div>
 
-<p style="margin-left: 100px"><b>[Robert W. Clayton](http://www.seismolab.caltech.edu/clayton_r.html)</b><br>Professor of Geophysics, Caltech<br>Ph.D. Co-Advisor</p>
+<p style="margin-left: 110px"><b>Robert W. Clayton</b><br>Professor of Geophysics, Caltech<br>Ph.D. Co-Advisor</p>
 
 <div id="over" style="position:absolute; width:15%; height:auto" alt="Zhan">
   <img src="/images/Zhongwen_Zhan.png">
 </div>
 
-[**Zhongwen Zhan**](http://www.seismolab.caltech.edu/zhan_z.html)
-<br>
-Assistant Professor of Geophysics, Caltech
-<br>
+<p style="margin-left: 110px"><b>Zhongwen Zhan</b><br>Assistant Professor of Geophysics, Caltech<br>Ph.D. Co-Advisor</p>
+
 Ph.D. Co-Advisor
 
 <div id="over" style="position:absolute; width:15%; height:auto" alt="Xyoli">
   <img src="/images/Xyoli.png">
 </div>
 
-[**Xyoli Perez Campos**](http://areas.geofisica.unam.mx/sismologia/index.php/users/view/11)
-<br>
-Professor of Geophysics, UNAM
-<br>
-M.S. advisor
+<p style="margin-left: 110px"><b>Xyoli Perez Campos</b><br>Professor of Geophysics, UNAM, Caltech<br>M.S. Co-Advisor</p>
