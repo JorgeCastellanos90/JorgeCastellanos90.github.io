@@ -9,7 +9,7 @@ header:
 I am a Ph.D. candidate in Geophysics at Caltech's Seismological Laboratory in Pasadena, California. My research focuses on using a wide variety of both classical and modern seismological tools to characterize the Earth's multi-scale structure and quantify its wave propagation properties. Some of my main interests include elastic wavefield imaging, tomographic reconstructions, seismic interferometry, full-waveform inversion and ground motion prediction.
 
 ## Education
-<div id="over" style="position:absolute; left: -50px; width:10%; height:10%" alt="Caltech">
+<div id="over" style="position:absolute; left: -100px; width:10%; height:10%" alt="Caltech">
   <img src="/images/CALTECH_LOGO.png">
 </div>
 **California Institute of Technology**
