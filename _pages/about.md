@@ -37,6 +37,39 @@ Professor of Geophysics, UNAM
 <br>
 M.S. Advisor
 
+## Collaborators
+-- Wenbo Wu
+<br>
+Post Doctoral Scholar in Geophysics, Caltech
+
+-- Eugene Humphreys
+<br>
+Professor of Geophysics, University of Oregon
+
+-- Jonathan Perry-Houts
+<br>
+Visiting Assistant Professor, Western Washington University
+
+-- YoungHee Kim
+<br>
+Associate Professor, Seoul National University
+
+-- Allen Husker
+<br>
+Professor of Geophysics, UNAM
+
+-- Alan Juarez
+<br>
+Graduate Student, USC
+
+-- Chunquan Yu
+<br>
+Associate Professor, SUSTech
+
+-- Han Yue
+<br>
+Assistant Professor, Peking University
+
 <figure>
   <img src="/images/ZhongwenGroup.jpg" alt="Zhan group">
   <figcaption>Zhan's research group.</figcaption>
