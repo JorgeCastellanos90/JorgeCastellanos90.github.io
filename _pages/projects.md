@@ -5,7 +5,7 @@ title: "My Research"
 author_profile: true
 header:
   overlay_image: "/images/Projects.png"
-  overlay_filter: 0.5
+  overlay_filter: 0.25
 ---
 
 # Overview
