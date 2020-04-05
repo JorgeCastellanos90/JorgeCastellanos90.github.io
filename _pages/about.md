@@ -20,10 +20,10 @@ I am a Ph.D. candidate in Geophysics at Caltech's [Seismological Laboratory](htt
 ## Teaching Assistant Appointments
 <p>Observation, Processing and Interpretation of Seismic Signals, UNAM<p2 style="float: right">2014</p2></p>
 <p>Continuum Mechanics, UNAM<p2 style="float: right">2014</p2></p>
-<p>Introduction to Geophysics., Caltech<p2 style="float: right">2014</p2></p>
-<p>Signal Processing and Seismic Imaging, Caltech<p2 style="float: right">2014</p2></p>
-<p>Data Analysis, Caltech<p2 style="float: right">2014</p2></p>
-<p>Introduction to Seismology, Caltech<p2 style="float: right">2014</p2></p>
+<p>Introduction to Geophysics., Caltech<p2 style="float: right">2016</p2></p>
+<p>Signal Processing and Seismic Imaging, Caltech<p2 style="float: right">2017</p2></p>
+<p>Data Analysis, Caltech<p2 style="float: right">2018</p2></p>
+<p>Introduction to Seismology, Caltech<p2 style="float: right">2019</p2></p>
 
 ## Academic Advisors (Past and Present)
 - [**Robert W. Clayton**](http://web.gps.caltech.edu/~clay/homepage.html)
