@@ -70,6 +70,8 @@ Associate Professor, SUSTech
 <br>
 Assistant Professor, Peking University
 
+<hr>
+
 <figure>
   <img src="/images/ZhongwenGroup.jpg" alt="Zhan group">
   <figcaption>Zhan's research group.</figcaption>
