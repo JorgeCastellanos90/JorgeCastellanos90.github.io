@@ -1,11 +1,14 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Overview"
+title: "My Research"
 author_profile: true
 header:
   overlay_image: "/images/Projects.png"
+  overlay_filter: 0.5
 ---
+
+# Overview
 
 ## Wavefield Imaging
 
