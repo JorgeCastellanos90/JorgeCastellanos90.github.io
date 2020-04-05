@@ -14,6 +14,12 @@ The primary focus of my research is to gain greater understanding of the materia
 ## Wavefield Imaging
 Over the past few decades, ambient noise interferometry has become an essential tool to image and monitor the Earth's interior. This method goes beyond the spatial limitations of classical earthquake seismology uses the Earth's background vibrations recorded at a pair of seismic stations to reconstruct the Green's function between the two stations. The practicality of this technique allows us to extract complete seismic wavefields without the involvement of tectonic earthquakes which, in turn, enable us to investigate the geo-mechanical properties of any region at unprecedented resolutions. I use this type of analysis to characterize the wave propagation properties of the shallow crust of highly populated areas, which is of utmost importance to predict ground motion and asses the seismic hazard.
 
+<figure class="two-column">
+  <img src="/images/SB3D.gif" alt="Michael Rose iPad self portrait">
+  <img src="/images/SB3D.gif" alt="Everly and Chloe iPad Paper drawing">
+  <figcaption>Self portrait and my 2 little rosebuds drawn with Paper for iOS.</figcaption>
+</figure>
+
 ## Tectonophysics
 
 ## Mantle Dynamics
