@@ -20,7 +20,7 @@ header:
 
 3. **Castellanos, J.**, Clayton, R., and Perez-Campos, X. (2018). Imaging the eastern Trans-Mexican Volcanic Belt with ambient seismic noise: evidence for a slab tear. Journal of Geophysical Research. <a href="https://doi.org/10.1029/2018JB015783" target="_blank"><i class="fa fa-external-link"></i> Article</a>
 
-2. Yue, H., **Castellanos, J.**, Yu, C., Meng, L., and Zhan, Z. (2017). Localized water reverberation phases and its impact on back-projection images. Geophysical Research Letters. <a href="https://doi.org/10.1002/2017GL073254" target="_blank"><i class="fa fa-external-link"></i> Article</a>
+2. Yue, H., **Castellanos, J.**, Yu, C., Meng, L., and Zhan, Z. (2017). Localized water reverberation phases and its impact on back-projection images. Geophysical Research Letters. <a href="https://doi.org/10.1002/2017GL073254" target="_blank"><i class="fas fa-link"></i> Article</a>
 
 1. **Castellanos, J.**, Perez-Campos, X., Valenzuela, R., Husker, A., and Ferrari, L. (2017). Crust and upper-mantle seismic anisotropy variations from the coast to inland in central and southern Mexico. Geophysical Journal International. <a href="https://doi.org/10.1093/gji/ggx174" target="_blank"><i class="fa fa-file-pdf"></i> Article</a>
 
