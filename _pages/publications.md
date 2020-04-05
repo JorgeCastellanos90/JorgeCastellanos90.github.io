@@ -14,7 +14,7 @@ header:
 6. **Castellanos, J.**, Clayton, R., and Juarez, A. (2020). Using a Time-based Subarray Method to Extract and Invert Noise-derived Body Waves at Long Beach, California. Journal of Geophysical Research.
 
 5. **Castellanos, J.**, Zhan, Z., and Wu W. (2020). Absolute centroid location of submarine earthquakes from 3D waveform modeling of water reverberations. Journal of Geophysical Research. <a href="https://doi.org/10.1029/2019JB018941
-" target="_blank"><i class="fa fa-external-link"></i> Paper</a>
+" target="_blank"><i class="fa fa-external-link"></i> Article</a>
 
 4. Carciumaru, D., Ortega, R., **Castellanos, J.**, and Huesca-Perez, E. (2020). Crustal characteristics in the Subduction zone of Mexico: implication of the tectonostratigraphic terranes on slab tearing. Seismological Research Letters. <a href="https://doi.org/10.1785/0220190117" target="_blank"><i class="fa fa-external-link"></i> Article</a>
 
