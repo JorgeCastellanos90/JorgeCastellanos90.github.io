@@ -97,6 +97,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "PhD Candidate in Geophysics"
   location         : "Pasadena, California"
+  googlescholar    : "https://scholar.google.com/citations?user=B3q8HDgAAAAJ&hl=en"
   email            :
   links:
     - label: "Email"
