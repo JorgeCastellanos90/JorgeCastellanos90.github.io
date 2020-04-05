@@ -7,4 +7,8 @@ header:
   image: "/images/Projects.png"
 ---
 
-## Dense-array seismology
+## Wavefield Imaging
+
+## Tectonophysics
+
+## Waveform modeling
