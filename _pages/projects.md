@@ -17,7 +17,7 @@ Over the past few decades, ambient noise interferometry has become an essential 
 <figure class="half">
     <img src="/files/LB3D.gif">
     <img src="/files/SB3D.gif">
-    <figcaption>Seismic wavefields propagating outwards from a virtual source across an oil-industry seismic array in Long Beach, California</figcaption>
+    <figcaption>Seismic wavefields propagating outwards from a virtual source across an oil-industry seismic array in Long Beach, CA.</figcaption>
 </figure>
 
 ## Tectonophysics
