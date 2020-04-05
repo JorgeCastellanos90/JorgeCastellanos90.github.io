@@ -1,7 +1,1 @@
----
-layout: archive
-permalink: /home/
-title: "Home"
-header:
-  image: ""
----
+url: https://jorgecastellanos90.github.io
