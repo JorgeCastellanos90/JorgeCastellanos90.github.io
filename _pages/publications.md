@@ -22,6 +22,6 @@ header:
 
 2. Yue, H., **Castellanos, J.**, Yu, C., Meng, L., and Zhan, Z. (2017). Localized water reverberation phases and its impact on back-projection images. Geophysical Research Letters. <a href="https://doi.org/10.1002/2017GL073254" target="_blank"><i class="fa fa-external-link"></i> Article</a>
 
-1. **Castellanos, J.**, Perez-Campos, X., Valenzuela, R., Husker, A., and Ferrari, L. (2017). Crust and upper-mantle seismic anisotropy variations from the coast to inland in central and southern Mexico. Geophysical Journal International. <a href="https://doi.org/10.1093/gji/ggx174" target="_blank"><i class="fa fa-external-link"></i> Article</a>
+1. **Castellanos, J.**, Perez-Campos, X., Valenzuela, R., Husker, A., and Ferrari, L. (2017). Crust and upper-mantle seismic anisotropy variations from the coast to inland in central and southern Mexico. Geophysical Journal International. <a href="https://doi.org/10.1093/gji/ggx174" target="_blank"><i class="fa fa-pencil"></i> Article</a>
 
 {: reversed="reversed"}
