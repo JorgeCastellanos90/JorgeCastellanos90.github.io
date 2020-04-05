@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-excerpt: "My Research"
+title: "Overview"
 author_profile: true
 header:
   image: "/images/Projects.png"
