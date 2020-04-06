@@ -14,7 +14,7 @@ The primary focus of my research is to gain greater understanding of the materia
 <hr>
 
 ## Wavefield Imaging
-Over the past few decades, ambient noise interferometry has become an essential tool to image and monitor the Earth's interior. This method goes beyond the spatial limitations of classical earthquake seismology uses the Earth's background vibrations recorded at a pair of seismic stations to reconstruct the Green's function between the two stations. The practicality of this technique allows us to extract complete seismic wavefields without the involvement of tectonic earthquakes which, in turn, enable us to investigate the geo-mechanical properties of any region at unprecedented resolutions. I use this type of analysis to characterize the wave propagation properties of the shallow crust of highly populated areas, which is of utmost importance to predict ground motion and asses the seismic hazard.
+Over the past few decades, ambient noise interferometry has become an essential tool to image and monitor the Earth's interior. This method goes beyond the spatial limitations of classical earthquake seismology uses the Earth's background vibrations recorded at a pair of seismic stations to reconstruct the Green's function between the two stations. The practicality of this technique allows us to extract complete seismic wavefields without the involvement of tectonic earthquakes which, in turn, enable us to investigate the geo-mechanical properties of any region at unprecedented resolutions. In my research, I use this type of analysis to characterize the wave propagation properties of the shallow crust of highly populated areas, which is of utmost importance to predict ground motion and asses the seismic hazard.
 
 <figure class="half">
     <img src="/files/LB3D.gif">
@@ -25,7 +25,7 @@ Over the past few decades, ambient noise interferometry has become an essential 
 <hr>
 
 ## Geologic Puzzles & Mantle Dynamics
-An important and popular branch of geophysics is the study of the physical processes that underlie tectonic deformation. These processes   
+An important and popular branch of Earth sciences is the study of the physical processes that underlie tectonic deformation. The understanding of the mechanics that drive these processes require the assimilation and interpretation of different observables that span the fields of geochemistry, geodesy and geophysics. In my research, I use classical seismological tools to create high resolution images of tectonically enigmatic regions and infer t
 
 <img src="/images/TMVB.png" width="50%" height="50%">
 <figcaption>Schematic illustration of the proposed dynamics of the eastern Trans-Mexican Volcanic Belt.</figcaption>
