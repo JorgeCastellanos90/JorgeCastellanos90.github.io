@@ -24,15 +24,12 @@ Over the past few decades, ambient noise interferometry has become an essential 
 
 <hr>
 
-## Tectonophysics
+## Tectonophysics & Mantle Dynamics
+
 <figure>
   <img src="/images/TMVB.png" width="50%" height="50%">
   <figcaption>Schematic illustration of the proposed dynamics of the eastern Trans-Mexican Volcanic Belt.</figcaption>
 </figure>
-
-<hr>
-
-## Mantle Dynamics
 
 <hr>
 
