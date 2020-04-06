@@ -74,5 +74,5 @@ Assistant Professor, Peking University
 
 <figure>
   <img src="/images/ZhongwenGroup.jpg" alt="Zhan group">
-  <figcaption>Zhan's research group.</figcaption>
+  <figcaption>Zhan's research group (March, 2020).</figcaption>
 </figure>
