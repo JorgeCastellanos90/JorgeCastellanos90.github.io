@@ -25,6 +25,7 @@ Over the past few decades, ambient noise interferometry has become an essential 
 <hr>
 
 ## Geologic Puzzles & Mantle Dynamics
+An important and popular branch of geophysics is the study of the physical processes that underlie tectonic deformation. These processes   
 
 <img src="/images/TMVB.png" width="50%" height="50%">
 <figcaption>Schematic illustration of the proposed dynamics of the eastern Trans-Mexican Volcanic Belt.</figcaption>
